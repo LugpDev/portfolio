@@ -59,7 +59,7 @@ p {
 }
 
 .project-title {
-  @apply text-lg;
+  @apply text-lg font-semibold;
 }
 
 .project-title:hover .rotated-arrow {

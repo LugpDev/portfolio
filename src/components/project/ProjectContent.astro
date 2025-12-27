@@ -26,8 +26,19 @@ const { title, image, description, techStack, url, lazy }: Props = Astro.props;
     </>
   </ProjectTitle>
   <p class='mt-[5px]'>
-    {description[lang]}
+    {description[lang].mainText}
   </p>
+
+  <h5 class="mt-2.5 font-medium">{t('projects.bulletsTitle')}</h5>
+  <ul>
+    {
+     description[lang].bullets?.map((bullet) => (
+       <li class='list-disc list-outside'>
+         {bullet}
+       </li>
+     )) 
+    }
+  </ul>
 
   <ul class='flex flex-wrap gap-[10px] mt-5'>
     {

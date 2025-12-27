@@ -17,8 +17,9 @@ export const ui = {
     'intro.languageSwitchAlt': 'England flag',
 
     'about.description':
-      'I’m a self-taught front-end developer with experience building modern applications and websites using technologies like React, TypeScript, Tailwind CSS, and Next.js. I focus on creating responsive, accessible, and SEO-optimized experiences.',
+      'Frontend Developer specialized in React and TypeScript, with experience building modern web applications using Next.js and Astro. Student of Computer Technologies Engineering at Tecnológico de Monterrey, currently seeking a junior position or internship where I can contribute value and continue growing professionally.',
 
+    'projects.bulletsTitle': 'Key Features',
     'projects.imgAlt': 'project screenshot',
     'projects.link': 'See more projects',
 
@@ -43,8 +44,9 @@ export const ui = {
     'intro.languageSwitchAlt': 'bandera de España',
 
     'about.description':
-      'Soy desarrollador front-end autodidacta con experiencia construyendo aplicaciones y sitios web modernos usando tecnologías como React, TypeScript, Tailwind CSS y Next.js. Me enfoco en crear experiencias responsivas, accesibles y optimizadas para SEO.',
+      'Desarrollador Frontend especializado en React y TypeScript, con experiencia construyendo aplicaciones web modernas usando Next.js y Astro. Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey, actualmente en búsqueda de una posición junior o de prácticas donde pueda aportar valor y seguir creciendo profesionalmente.',
 
+    'projects.bulletsTitle': 'Características Principales',
     'projects.imgAlt': 'captura de pantalla del proyecto',
     'projects.link': 'Ver más proyectos',
 
