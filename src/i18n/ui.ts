@@ -17,7 +17,7 @@ export const ui = {
     'intro.languageSwitchAlt': 'England flag',
 
     'about.description':
-      'I’m a self-taught front-end developer with experience building modern applications and websites using technologies like React, TypeScript, Tailwind CSS, and Next.js. I focus on creating responsive, accessible, and SEO-optimized experiences.',
+      'Frontend Developer specialized in React and TypeScript, with experience building modern web applications using Next.js and Astro. Student of Computer Technologies Engineering at Tecnológico de Monterrey, currently seeking a junior position or internship where I can contribute value and continue growing professionally.',
 
     'projects.bulletsTitle': 'Key Features',
     'projects.imgAlt': 'project screenshot',
