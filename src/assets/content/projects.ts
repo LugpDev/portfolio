@@ -28,8 +28,15 @@ export const projects: Project[] = [
     description: {
       en: {
         mainText:
-          'Web app with AI-generated quizzes for learning multiple subjects.',
-        bullets: [],
+          'I developed an educational quiz platform with AI that automatically generates questions and allows practicing different subjects interactively.',
+        bullets: [
+          'Complete authentication with NextAuth.js',
+          'Automatic question generation using AI',
+          'OCR with Tesseract.js',
+          'Modular architecture with Server Actions',
+          'Reusable components built with custom hooks',
+          'Complete testing with Jest and Cypress',
+        ],
       },
       es: {
         mainText:
@@ -59,8 +66,14 @@ export const projects: Project[] = [
     description: {
       en: {
         mainText:
-          'Official website for Pasari, a student Formula SAE team. Features include team info, car designs, sponsors, results, filtering, multilingual support, and responsive design.',
-        bullets: [],
+          'I developed the official website for the Pasari RPI team, with focus on multilingual content, performance and responsive design.',
+        bullets: [
+          'Complete internationalization (ES/EN) with dynamic routes',
+          'Filtering system using query parameters',
+          'Performance optimization with Astro Islands and static generation',
+          'Reusable components with type safety in TypeScript',
+          'Responsive and modular design with Tailwind CSS',
+        ],
       },
       es: {
         mainText:
@@ -83,8 +96,14 @@ export const projects: Project[] = [
     description: {
       en: {
         mainText:
-          'Blog personal desarrollado con Astro y TypeScript para compartir aprendizajes sobre desarrollo web.',
-        bullets: [],
+          'I developed a personal technical blog to share web development learnings, with search and content filtering system.',
+        bullets: [
+          'Content management in Markdown through Astro Content Collections',
+          'Search system and filtering by categories',
+          'Architecture based on reusable components',
+          'CI/CD integration with GitHub Actions',
+          'Unit testing with Vitest and end-to-end tests with Cypress',
+        ],
       },
       es: {
         mainText:
@@ -106,8 +125,16 @@ export const projects: Project[] = [
     image: nextflixImage,
     description: {
       en: {
-        mainText: 'Netflix Clone built for educational purposes.',
-        bullets: [],
+        mainText:
+          'I developed a functional Netflix clone focused on authentication, API consumption and streaming platform structure.',
+        bullets: [
+          'Authentication and protected routes with NextAuth.js and middleware',
+          'Internationalization (ES/EN) with dynamic routes',
+          'Integration with TMDB API for dynamic content',
+          'Subscription system with multiple plans',
+          'Form validation with Formik and Yup',
+          'Interface built with Shadcn UI and Tailwind CSS',
+        ],
       },
       es: {
         mainText:
