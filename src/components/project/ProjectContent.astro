@@ -33,7 +33,7 @@ const { title, image, description, techStack, url, lazy }: Props = Astro.props;
   <ul>
     {
      description[lang].bullets?.map((bullet) => (
-       <li class='list-disc list-outside'>
+       <li class='list-disc list-inside sm:list-outside'>
          {bullet}
        </li>
      )) 
