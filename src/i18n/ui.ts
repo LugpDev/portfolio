@@ -43,7 +43,7 @@ export const ui = {
     'intro.languageSwitchAlt': 'bandera de España',
 
     'about.description':
-      'Soy desarrollador front-end autodidacta con experiencia construyendo aplicaciones y sitios web modernos usando tecnologías como React, TypeScript, Tailwind CSS y Next.js. Me enfoco en crear experiencias responsivas, accesibles y optimizadas para SEO.',
+      'Desarrollador Frontend especializado en React y TypeScript, con experiencia construyendo aplicaciones web modernas usando Next.js y Astro. Estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey, actualmente en búsqueda de una posición junior o de prácticas donde pueda aportar valor y seguir creciendo profesionalmente.',
 
     'projects.imgAlt': 'captura de pantalla del proyecto',
     'projects.link': 'Ver más proyectos',
