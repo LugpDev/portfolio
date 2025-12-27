@@ -15,7 +15,7 @@ This is my personal portfolio project built using Astro, React, and Tailwind CSS
 To get started with this project, clone the repository and install the dependencies:
 
 ```sh
-git clone https://github.com/LugpDev2022/portfolio.git
+git clone https://github.com/LugpDev/portfolio.git
 cd portfolio
 yarn install
 ```
